@@ -267,3 +267,12 @@ Special thanks to @[Yasujizr](https://github.com/Yasujizr) who designed the Mark
 [**MIT**](LICENSE).
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarktext%2Fmarktext.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarktext%2Fmarktext?ref=badge_large)
+
+
+
+
+
+
+
+
+
